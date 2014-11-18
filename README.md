@@ -34,7 +34,11 @@ async:a code framework to format code of nodejs
 use restful api to call methods of server
 use asnyc to format codes of server
 
+<<<<<<< HEAD
 license£ºMIT
+=======
+license 2:BSD
+>>>>>>> a3a38e26bd4a5c0adc7a47c88b996d4a638e343c
 
 
 
