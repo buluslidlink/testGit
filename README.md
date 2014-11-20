@@ -36,8 +36,10 @@ use asnyc to format codes of server
 
 //-----------------------license-------------------------
 
-license:MIT
+license 1:MIT
 license 2:BSD
+license 3:LGPL
+license 4:Apache
 
 
 
